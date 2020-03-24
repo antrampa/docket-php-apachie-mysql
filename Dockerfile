@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Antonios Zalonis<antonis.zalonis@gmail.com>
+MAINTAINER Name<email>
 
 ENV DEBIAN_FRONTEND noninteractive
 
